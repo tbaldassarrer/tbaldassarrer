@@ -1,3 +1,5 @@
+![Banner](./banner_Tatiana.png)
+
 # 👋 Hola, soy Tatiana Baldassarre
 
 💻 **Full-Stack Developer en formación**  
